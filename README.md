@@ -1,5 +1,5 @@
 # boids
 
-Super duper simple boids algorithm implementation.
+Super simple implementation of boids flocking algorithm in Godot.
 
 ![Screenshot](screenshot.png)
